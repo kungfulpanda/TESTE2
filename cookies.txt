@@ -1,6 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.mitiendanube.com	TRUE	/	FALSE	1999999999	__cf_bm	SPK88dNwPIhqfNmHZPwqqjWezfSDJLTonSgrxW5a84o-1767553649-1.0.1.1-z7Vouo2zTR8fwYFR64iSyNUMC3peB.IlH9JeNYjFm.AN0fMGyKoY_tatm81OoRPuTUV.3pTi24U0.w30Oqn3QSPnvGvly9gdXp7fF6slkCY
-.gorodamansao.com	TRUE	/	FALSE	1999999999	__cf_bm	D_3P_nE_c3vGmhqF6iOuDuaXZ_pBTwMWAhAyL.5vTmg-1767553656-1.0.1.1-ILVqBFCxpntUg17lGvYUGeYDBjPipItytRZNF3wtttGz1yOgimyPW9ymGnzaOXn8FBAEfRYYHoECHutT6ESOeHUJTXoMICKH41r8Jjm_n7A
-gorodamansao.com	TRUE	/	FALSE	1999999999	SameSite	None
-
